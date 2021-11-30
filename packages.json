@@ -1,0 +1,19 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "All the mods 6",
+      "name" : "All the mods 6",
+      "version" : "1.0",
+      "location" : "all-the-mods-6.json",
+      "priority" : 0
+    },
+    {
+      "title" : "Create Above and Beyond",
+      "name" : "Create Above and Beyond",
+      "version" : "1.0",
+      "location" : "create-above-and-beyond.json",
+      "priority" : 0
+    }
+  ]
+}
