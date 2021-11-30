@@ -1,0 +1,9 @@
+#KubeJS Common Properties
+#Sun Nov 21 02:40:51 CET 2021
+enableES6=true
+hideServerScriptErrors=false
+packmode=default
+invertClassLoader=true
+debugInfo=false
+announceReload=true
+serverOnly=false
